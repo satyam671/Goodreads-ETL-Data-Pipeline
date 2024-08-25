@@ -1,9 +1,10 @@
 # GoodReads Data Pipeline
 
-<img src="https://github.com/san089/goodreads_etl_pipeline/blob/master/docs/images/goodreads.png" align="centre">
+![goodreads project banner](https://github.com/user-attachments/assets/d8d62688-a7ce-46a7-bf78-e475e997c916)
 
 ## Architecture 
-![Pipeline Architecture](https://github.com/san089/goodreads_etl_pipeline/blob/master/docs/images/architecture.png)
+
+![goodreads pipeline architechture](https://github.com/user-attachments/assets/6cd232a6-3ce3-4019-aedf-cc7560f5c4f6)
 
 Pipeline Consists of various modules:
 
